@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "610455644832",
+    "project_id": "eac-android-bootcamp",
+    "storage_bucket": "eac-android-bootcamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610455644832:android:b50b2574dd3a0d427977c5",
+        "android_client_info": {
+          "package_name": "com.eac.productlistingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610455644832-hus61k3jelmun0gcaev0fkvgao949k8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUedjApZ7jDx_np1uPfEwNJf_mxVYifgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610455644832-hus61k3jelmun0gcaev0fkvgao949k8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
